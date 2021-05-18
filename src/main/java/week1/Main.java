@@ -1,7 +1,5 @@
 package week1;
 
-import jdk.nashorn.internal.ir.annotations.Immutable;
-
 public class Main {
     public static void main(String[] args){
         // 논리형

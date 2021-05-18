@@ -1,0 +1,8 @@
+week1/Main.java
+ week1.Main
+week2/ConditionMain.java
+ week2.ConditionMain
+week1/Hello.java
+ week1.Hello
+week2/LoopMain.java
+ week2.LoopMain
