@@ -4,5 +4,7 @@ week2/ConditionMain.java
  week2.ConditionMain
 week1/Hello.java
  week1.Hello
+week3/ArrayMain.java
+ week3.ArrayMain
 week2/LoopMain.java
  week2.LoopMain
